@@ -66,8 +66,8 @@ Informations
 - Kernel Version
 
 Files 
-command_outputs.txt
-system_summary.txt
+command output.txt
+system summary.txt
 
 Screenshot
 <img width="1958" height="803" alt="shot3" src="https://github.com/user-attachments/assets/04272968-5a97-43b7-be9a-74ee01427c90" />
@@ -95,7 +95,7 @@ Observation
 Part E – Shell Scripting :-
 
 Script
-system_report.sh
+system report.sh
 
 Commands 
 chmod +x system_report.sh
@@ -126,7 +126,7 @@ w
 last
 
 Files 
-research_answers.txt
+System summary.txt
 
 Screenshort
 <img width="1744" height="901" alt="shot6" src="https://github.com/user-attachments/assets/c6c9059e-eae7-4f07-abea-ed739e9e4346" />
