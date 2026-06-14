@@ -157,3 +157,13 @@ Before killing a process, the following information will be collected:
  PPID
  File Location
  Network connections
+
+
+
+Linux Task 03_linta/
+
+├── Screenshots/
+├── system report.sh
+├── command output.txt
+├── system summary.txt
+└── README.md
