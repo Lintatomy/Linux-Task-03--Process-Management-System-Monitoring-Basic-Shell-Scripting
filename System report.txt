@@ -1,0 +1,42 @@
+#!/bin/bash
+
+echo "===================================="
+echo "      SYSTEM INFORMATION REPORT"
+echo "===================================="
+
+echo ""
+echo "Current User:"
+whoami
+
+echo ""
+echo "Hostname:"
+hostname
+
+echo ""
+echo "Date & Time:"
+date
+
+echo ""
+echo "Current Directory:"
+pwd
+
+echo ""
+echo "Memory Usage:"
+free -h
+
+echo ""
+echo "Disk Usage:"
+df -h
+
+echo ""
+echo "System Uptime:"
+uptime
+
+echo ""
+echo "Kernel Version:"
+uname -a
+
+echo ""
+echo "===================================="
+echo "      REPORT COMPLETED"
+echo "===================================="

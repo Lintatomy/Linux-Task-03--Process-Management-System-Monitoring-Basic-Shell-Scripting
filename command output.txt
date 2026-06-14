@@ -1,0 +1,7 @@
+free -h > command_outputs.txt
+echo "" >> command_outputs.txt
+df -h >> command_outputs.txt
+echo "" >> command_outputs.txt
+uptime >> command_outputs.txt
+echo "" >> command_outputs.txt
+uname -a >> command_outputs.txt
