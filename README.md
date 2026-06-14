@@ -27,6 +27,7 @@ Screenshots
 <img width="1402" height="1122" alt="shot1 2" src="https://github.com/user-attachments/assets/41223b6a-2cea-4c83-b0e4-f69d4c7224de" />
 
 
+
 Part B – Process Management :-
 
 sleep 300
@@ -72,6 +73,7 @@ Screenshot
 <img width="1958" height="803" alt="shot3" src="https://github.com/user-attachments/assets/04272968-5a97-43b7-be9a-74ee01427c90" />
 
 
+
 Part D – Service Monitoring :-
 
 Commands
@@ -87,6 +89,7 @@ Observation
   <img width="996" height="1578" alt="shot4" src="https://github.com/user-attachments/assets/76dd7e58-8846-4d0f-ba4d-d4c2e92f9a94" />
 
 <img width="1897" height="829" alt="shot4 1" src="https://github.com/user-attachments/assets/0c5d2697-415a-4b18-949f-7fb14add73de" />
+
 
 
 Part E – Shell Scripting :-
@@ -112,6 +115,7 @@ Screenshots
 <img width="1466" height="1073" alt="shot5" src="https://github.com/user-attachments/assets/94d966b9-c539-4084-99b0-b7e864b892b9" />
 
 
+
 Part F – Security Monitoring Challenge :-
 
 Commands 
@@ -126,6 +130,7 @@ research_answers.txt
 
 Screenshort
 <img width="1744" height="901" alt="shot6" src="https://github.com/user-attachments/assets/c6c9059e-eae7-4f07-abea-ed739e9e4346" />
+
 
 
 Part G – Mini SOC Activity :-
